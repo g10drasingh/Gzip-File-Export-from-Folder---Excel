@@ -1,7 +1,7 @@
 // This script retrieves CSV.GZ files from a specified folder,
 // decompresses them, converts them to CSV format, and promotes headers.
 // It then adds a column with the transformed file content and removes unnecessary columns.
-
+let
 // Get files from the folder
 Source = Folder.Files("Your Folder Containing CSV.GZ Files"), // Replace "Your Folder Containing CSV.GZ Files" with the path to your folder containing CSV.GZ files e.g "C:\Users\jeete\Downloads\Falgun"
 
