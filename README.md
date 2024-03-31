@@ -10,7 +10,7 @@ This repository contains a Power Query M script that reads CSV files compressed 
 
 3. In Power BI Desktop or Excel, go to the Power Query Editor.
 
-4. Click on "New Source" and select "Blank Query".
+4. Click on "New Source" / "Get Data" -> "Other Sources" and select "Blank Query".
 
 5. Copy the script provided in the `CSV_GZ_File_Reader.m` file in this repository.
 
